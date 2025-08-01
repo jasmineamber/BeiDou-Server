@@ -151,7 +151,7 @@ function action(mode, type, selection) {
             prompt += qty + " #t" + item + "#?";
         }
         prompt += " 如果是那样的话，我需要你提供一些特定的物品才能完成任务。不过，请确保你的背包中有足够的空间！#b";
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + (matQty[i] * qty) + " #t" + mats[i] + "#";
             }
@@ -170,7 +170,7 @@ function action(mode, type, selection) {
             cm.dispose();
             return;
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i] * qty)) {
                         complete = false;
@@ -199,7 +199,7 @@ function action(mode, type, selection) {
             }
 
             if (cm.canHold(recvItem, recvQty)) {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         cm.gainItem(mats[i], -(matQty[i] * qty));
                     }

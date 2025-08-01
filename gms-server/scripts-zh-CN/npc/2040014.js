@@ -75,7 +75,7 @@ function action(mode, type, selection) {
             prompt += qty + " #t" + item + "#";
         }
         prompt += ", right? In that case, I'm going to need specific items from you in order to make it. Make sure you have room in your inventory, though!#b";
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + (matQty[i] * qty) + " #t" + mats[i] + "#";
             }
@@ -94,7 +94,7 @@ function action(mode, type, selection) {
             cm.dispose();
             return;
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i] * qty)) {
                         complete = false;
@@ -108,7 +108,7 @@ function action(mode, type, selection) {
             cm.sendOk("您缺少了一些用于制作套装的物品。请提供它们，以便我们可以组装游戏套装。");
         } else {
             if (cm.canHold(item, qty)) {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         cm.gainItem(mats[i], -(matQty[i] * qty));
                     }

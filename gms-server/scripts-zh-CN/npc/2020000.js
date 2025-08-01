@@ -195,7 +195,7 @@ function action(mode, type, selection) {
 
         prompt += " 既然如此，我需要你提供一些特定的物品来制作箭矢。不过，确保你的库存空间足够哦！#b";
 
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + matQty[i] * qty + " #t" + mats[i] + "#";
             }
@@ -228,7 +228,7 @@ function action(mode, type, selection) {
         } else {
             var complete = true;
 
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i] * qty)) {
                         complete = false;
@@ -243,7 +243,7 @@ function action(mode, type, selection) {
             if (!complete) {
                 cm.sendOk("如果没有正确的物品，我无法为你提炼任何东西。");
             } else {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         cm.gainItem(mats[i], -matQty[i] * qty);
                     }

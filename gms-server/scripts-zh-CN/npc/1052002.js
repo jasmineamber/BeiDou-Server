@@ -128,7 +128,7 @@ function action(mode, type, selection) {
         }
 
         var prompt = "那么，你想让我制作一些#i" + item + "##t" + item + "#吗？你希望我制作多少？";
-
+        
         cm.sendGetNumber(prompt, 1, 1, 100)
     } else if (status == 3 && mode == 1) {
         if (equip) {
@@ -184,8 +184,8 @@ function action(mode, type, selection) {
         }
 
         prompt += " 在这种情况下，我需要从你这儿得到一些特定的物品来进行制作。不过，请确保你的背包有足够的空间！#b";
-
-        if (mats instanceof Array) {
+        
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + matQty[i] * qty + " #t" + mats[i] + "#";
             }
@@ -218,7 +218,7 @@ function action(mode, type, selection) {
             cm.dispose();
             return;
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i] * qty)) {
                         complete = false;
@@ -232,7 +232,7 @@ function action(mode, type, selection) {
         if (!complete) {
             cm.sendOk("你在打什么主意？想白嫖吗？不给我材料，我什么也做不了。");
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     cm.gainItem(mats[i], -matQty[i] * qty);
                 }

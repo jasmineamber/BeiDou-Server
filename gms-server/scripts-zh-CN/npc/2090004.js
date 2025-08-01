@@ -119,7 +119,7 @@ function action(mode, type, selection) {
             matMeso = matQtyMeso[selectedItem];
 
             var prompt = "You want to make #b" + makeQty + " #t" + item + "##k? In order to make " + makeQty + " #t" + item + "#, you'll need the following items:\r\n";
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     prompt += "\r\n#i" + mats[i] + "# " + matQty[i] * makeQty + " #t" + mats[i] + "#";
                 }
@@ -146,7 +146,7 @@ function action(mode, type, selection) {
             mats = matSet[selectedItem];
             matQty = matQtySet[selectedItem];
             var prompt = "You want to make #b#t" + item + "##k? In order to make #t" + item + "# you'll need the following items:";
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     prompt += "\r\n#i" + mats[i] + "# " + matQty[i] + " #t" + mats[i] + "#";
                 }
@@ -168,7 +168,7 @@ function action(mode, type, selection) {
     } else if (status == 4) {
         if (selectedType == 0) {
             var complete = true;
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i] * makeQty)) {
                         complete = false;
@@ -187,7 +187,7 @@ function action(mode, type, selection) {
             if (!complete || !cm.canHold(item, makeQty)) {
                 cm.sendOk("请确保你既不缺少原料，也不缺少使用库存空间。");
             } else {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         cm.gainItem(mats[i], -matQty[i] * makeQty);
                     }
@@ -204,7 +204,7 @@ function action(mode, type, selection) {
             cm.dispose();
         } else if (selectedType == 1) {
             var complete = true;
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i])) {
                         complete = false;
@@ -224,7 +224,7 @@ function action(mode, type, selection) {
             if (!complete || !cm.canHold(item, 1)) {
                 cm.sendOk("请确保你既不缺少原料，也不缺少使用库存空间。");
             } else {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         cm.gainItem(mats[i], -matQty[i]);
                     }

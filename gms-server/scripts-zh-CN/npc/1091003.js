@@ -102,7 +102,7 @@ function action(mode, type, selection) {
 
         prompt = "制作 #t" + item + "# 需要以下条件. 等级要求 " + levelLimit + "级, 因此在获得此项目之前，请检查并确保您真的有这些材料。您怎么看？你真的想要一个吗？\r\n";
 
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + matQty[i] * qty + " #t" + mats[i] + "#";
             }
@@ -127,7 +127,7 @@ function action(mode, type, selection) {
             cm.dispose();
             return;
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; pass && i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i] * qty)) {
                         pass = false;
@@ -136,7 +136,7 @@ function action(mode, type, selection) {
             } else if (!cm.haveItem(mats, matQty * qty)) {
                 pass = false;
             }
-            /*if (mats instanceof Array) {
+            /*if (Array.isArray(mats)) {
                 for(var i = 0; pass && i < mats.length; i++)
                 {
                     if (matQty[i] * qty == 1)	{
@@ -171,7 +171,7 @@ function action(mode, type, selection) {
         if (pass == false) {
             cm.sendNext("请确保你拥有制作这个物品所需的所有必要物品。另外，确保你的装备栏有足够的空间。如果你的背包已经满了，我就无法给你这个物品了，你知道的。");
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     cm.gainItem(mats[i], -matQty[i] * qty);
                 }

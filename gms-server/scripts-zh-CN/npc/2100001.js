@@ -124,7 +124,7 @@ function action(mode, type, selection) {
 
         prompt += " 那么，请确认你准备好了相应材料，并且背包里有充足的空间。#b";
 
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + matQty[i] * qty + " #t" + mats[i] + "#";
             }
@@ -159,7 +159,7 @@ function action(mode, type, selection) {
         } else if (cm.getMeso() < cost * qty) {
             cm.sendOk("金币不足的话，我无法为你制作。");
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (matQty[i] * qty == 1) {
                         if (!cm.haveItem(mats[i])) {
@@ -181,7 +181,7 @@ function action(mode, type, selection) {
             if (!complete) {
                 cm.sendOk("请确保材料足够，并且有足够的其他栏空间。");
             } else {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         cm.gainItem(mats[i], -matQty[i] * qty);
                     }

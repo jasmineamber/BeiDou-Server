@@ -174,7 +174,7 @@ function action(mode, type, selection) {
         }
 
         prompt += " Right! I will need some items to make that item. Make sure you have a #bfree slot#k in your inventory!#b";
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + (matQty[i] * qty) + " #t" + mats[i] + "#";
             }
@@ -190,7 +190,7 @@ function action(mode, type, selection) {
             cm.sendOk("这是我制作物品所收取的费用！不接受信用。");
         } else {
             var complete = true;
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i] * qty)) {
                         complete = false;
@@ -204,7 +204,7 @@ function action(mode, type, selection) {
                 cm.sendOk("你确定你拿齐了所有需要的物品吗？再检查一遍！");
             } else {
                 if (cm.canHold(item, qty)) {
-                    if (mats instanceof Array) {
+                    if (Array.isArray(mats)) {
                         for (var i = 0; i < mats.length; i++) {
                             cm.gainItem(mats[i], -(matQty[i] * qty));
                         }

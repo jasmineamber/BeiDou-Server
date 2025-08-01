@@ -123,7 +123,7 @@ function action(mode, type, selection) {
                 var prompt = "然后我会给你做一个 #b#t" + item + "##k, 那样对吗?";
                 prompt += " 在这种情况下，我需要你提供特定的物品才能完成。不过，请确保你的库存中有足够的空间！#b";
 
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         prompt += "\r\n#i" + mats[i] + "# " + matQty[i] + " #t" + mats[i] + "#";
                     }
@@ -150,7 +150,7 @@ function action(mode, type, selection) {
                 cm.dispose();
                 return;
             } else {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; complete && i < mats.length; i++) {
                         if (!cm.haveItem(mats[i], matQty[i] * qty)) {
                             complete = false;
@@ -164,7 +164,7 @@ function action(mode, type, selection) {
             if (!complete) {
                 cm.sendOk("“嗯，看来你缺少订婚戒指的一些材料。请先提供这些材料，好吗？”");
             } else {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         cm.gainItem(mats[i], -matQty[i] * qty);
                     }

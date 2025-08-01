@@ -152,7 +152,7 @@ function action(mode, type, selection) {
             matQty = matQtySet[selectedItem];
             cost = costSet[selectedItem];
         }var prompt = "你想要做一双 #t" + item + "#? 我建议你确保装备栏空间足够。#b";
-        if (mats instanceof Array){
+        if (Array.isArray(mats)){
             for(var i = 0; i < mats.length; i++)
                 prompt += "\r\n#i"+mats[i]+"# " + matQty[i] + " #t" + mats[i] + "#";
         }
@@ -177,7 +177,7 @@ function action(mode, type, selection) {
         }
 
         else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for(var i = 0; complete && i < mats.length; i++)
                     if (!cm.haveItem(mats[i], matQty[i]))
                         complete = false;
@@ -188,7 +188,7 @@ function action(mode, type, selection) {
         if (!complete)
             cm.sendOk("实在抱歉，每一样材料都是制作所必须的。请备齐材料再来。");
         else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++)
                     cm.gainItem(mats[i], -matQty[i]);
             }

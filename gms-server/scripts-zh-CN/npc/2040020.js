@@ -208,7 +208,7 @@ function action(mode, type, selection) {
         if (stimulator) {
             prompt += "\r\n#i" + stimID + "# 1 #t" + stimID + "#";
         }
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + matQty[i] + " #t" + mats[i] + "#";
             }
@@ -231,7 +231,7 @@ function action(mode, type, selection) {
             cm.dispose();
             return;
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i])) {
                         complete = false;
@@ -249,7 +249,7 @@ function action(mode, type, selection) {
         if (!complete) {
             cm.sendOk("抱歉，但我必须拥有这些物品才能做到完美。也许下次吧。");
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     cm.gainItem(mats[i], -matQty[i]);
                 }

@@ -149,7 +149,7 @@ function action(mode, type, selection) {
 
             prompt += " 在这种情況下，我要为了做出好的品质。请确保您背包是否有这么多空间可以放!#b";
 
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     prompt += "\r\n#i" + mats[i] + "# " + matQty[i] * qty + " #t" + mats[i] + "#";
                 }
@@ -173,7 +173,7 @@ function action(mode, type, selection) {
                 cm.dispose();
                 return;
             } else {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; complete && i < mats.length; i++) {
                         if (!cm.haveItem(mats[i], matQty[i] * qty)) {
                             complete = false;
@@ -187,7 +187,7 @@ function action(mode, type, selection) {
             if (!complete) {
                 cm.sendOk("我不能接受替代品。如果你没有我需要的东西，那么我就无法帮助你。");
             } else {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         cm.gainItem(mats[i], -matQty[i] * qty);
                     }

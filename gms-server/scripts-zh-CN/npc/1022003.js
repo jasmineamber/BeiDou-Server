@@ -162,7 +162,7 @@ function action(mode, type, selection) {
             prompt += qty + " #t" + item + "#?";
         }
         prompt += "我需要从你那里获取一些特定的材料才能制作。确保你的库存有足够的空间！#b";
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + matQty[i] * qty + " #t" + mats[i] + "#";
             }
@@ -185,7 +185,7 @@ function action(mode, type, selection) {
             cm.dispose();
             return;
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i] * qty)) {
                         complete = false;
@@ -198,7 +198,7 @@ function action(mode, type, selection) {
         if (!complete) {
             cm.sendOk("我觉得你还缺少一些材料。准备好再来找我，好吗？");
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     cm.gainItem(mats[i], -matQty[i] * qty);
                 }

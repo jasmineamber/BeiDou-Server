@@ -81,7 +81,7 @@ function action(mode, type, selection) {
 
         prompt += " In that case, I'm going to need specific items from you in order to make it. And make sure you have room in your inventory!#b";
 
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + matQty[i] * qty + " #t" + mats[i] + "#";
             }
@@ -101,7 +101,7 @@ function action(mode, type, selection) {
         } else if (!cm.canHold(item, qty)) {
             cm.sendOk("你在制作之前没有检查你的背包是否有空余的槽位，对吗？");
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (matQty[i] * qty == 1) {
                         complete = cm.haveItem(mats[i]);
@@ -116,7 +116,7 @@ function action(mode, type, selection) {
             if (!complete) {
                 cm.sendOk("您的库存中资源不足。请再次检查。");
             } else {
-                if (mats instanceof Array) {
+                if (Array.isArray(mats)) {
                     for (var i = 0; i < mats.length; i++) {
                         cm.gainItem(mats[i], -matQty[i] * qty);
                     }

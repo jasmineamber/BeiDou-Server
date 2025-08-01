@@ -169,7 +169,7 @@ function action(mode, type, selection) {
             stimID = getStimID(item);
             prompt += "\r\n#i" + stimID + "# 1 #t" + stimID + "#";
         }
-        if (mats instanceof Array) {
+        if (Array.isArray(mats)) {
             for (var i = 0; i < mats.length; i++) {
                 prompt += "\r\n#i" + mats[i] + "# " + matQty[i] + " #t" + mats[i] + "#";
             }
@@ -192,7 +192,7 @@ function action(mode, type, selection) {
             cm.dispose();
             return;
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; complete && i < mats.length; i++) {
                     if (!cm.haveItem(mats[i], matQty[i])) {
                         complete = false;
@@ -210,7 +210,7 @@ function action(mode, type, selection) {
         if (!complete) {
             cm.sendOk("恐怕没有正确的物品，龙之精华就不能成为一个非常可靠的武器。下次请带来正确的物品。");
         } else {
-            if (mats instanceof Array) {
+            if (Array.isArray(mats)) {
                 for (var i = 0; i < mats.length; i++) {
                     cm.gainItem(mats[i], -matQty[i]);
                 }
