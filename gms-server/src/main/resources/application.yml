@@ -9,7 +9,7 @@ jwt:
   # secret 生产环境请自行生成 UUID
   secret: "aa9e8798-4d73-41f6-ac68-0ad4de04ef30"
   # token 过期时间（毫秒）默认 30min
-  duration: 1800000
+  duration: 86400000
 
 mybatis-flex:
   datasource:
