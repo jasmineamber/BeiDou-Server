@@ -1,9 +1,9 @@
 import { mergeConfig } from 'vite';
-import baseConfig from './vite.config.base';
-import configCompressPlugin from './plugin/compress';
-import configVisualizerPlugin from './plugin/visualizer';
 import configArcoResolverPlugin from './plugin/arcoResolver';
+import configCompressPlugin from './plugin/compress';
 import configImageminPlugin from './plugin/imagemin';
+import configVisualizerPlugin from './plugin/visualizer';
+import baseConfig from './vite.config.base';
 
 export default mergeConfig(
   {
@@ -25,6 +25,8 @@ export default mergeConfig(
         },
       },
       chunkSizeWarningLimit: 2000,
+      outDir: '/var/www/gms-ui',
+      emptyOutDir: true
     },
   },
   baseConfig
