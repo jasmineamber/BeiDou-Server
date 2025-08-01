@@ -87,7 +87,7 @@ function end(mode, type, selection) {
                 return;
             }
 
-            qm.sendNext("这只蜗牛只会存在#5个小时#k.用爱来沐浴。你的爱最终会得到回报");
+            qm.sendNext("这只蜗牛只会存在#b5个小时#k.用爱来沐浴。你的爱最终会得到回报");
         } else if (status == 7) {
             if (canComplete) {
                 qm.gainItem(4032086, -1); // Mysterious Egg * -1
