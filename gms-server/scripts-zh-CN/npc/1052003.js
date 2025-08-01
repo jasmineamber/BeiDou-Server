@@ -113,7 +113,7 @@ function action(mode, type, selection) {
                 cost = costSet[0];
             }
 
-            var prompt = "所以，你要我做一些 #t" + item + "#s? 在这种情況下，有多少你要我做多少个??";
+            var prompt = "所以，你要我做一些 #b#t" + item + "#?#k 在这种情況下，有多少你要我做多少个??";
 
             cm.sendGetNumber(prompt, 1, 1, 100)
         } else if (status == 3) {
@@ -142,9 +142,9 @@ function action(mode, type, selection) {
 
             var prompt = "你要我做 ";
             if (qty == 1) {
-                prompt += "1个 #t" + item + "#?";
+                prompt += "1 个 #b#t" + item + "##k?";
             } else {
-                prompt += qty + " #t" + item + "#?";
+                prompt += qty + " #b#t" + item + "##k?";
             }
 
             prompt += " 在这种情況下，我要为了做出好的品质。请确保您背包是否有这么多空间可以放!#b";
