@@ -168,7 +168,7 @@ function evaluateAnswer(selection) {
 }
 
 function generateQuestionHeading() {
-    return "Here's the " + (status) + (status == 1 ? "st" : status == 2 ? "nd" : status == 3 ? "rd" : "th") + " question. ";
+    return "第" + (status == 1 ? "一" : status == 2 ? "二" : status == 3 ? "三" : "四") + "个问题:\r\n";
 }
 
 function shuffleArray(array) {
