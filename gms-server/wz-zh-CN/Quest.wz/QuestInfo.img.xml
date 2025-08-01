@@ -18237,7 +18237,7 @@
     <imgdir name="8084">
         <string name="name" value="索非亚的点心"/>
         <string name="0" value="#r#p1022100##k 看起来很疲惫。"/>
-        <string name="1" value="为了制作美味的 #r#t2010005##k ，她需要 #b20#k #b#t2012002#s#k。我需要去消灭木妖区域的怪物才能快速获取此物品。  \n#b#t2012002# #b#c2012002##k/20"/>
+        <string name="1" value="为了制作美味的 #r#t2010005##k ，她需要 #b20#k #b#t2012002##k。我需要去消灭木妖区域的怪物才能快速获取此物品。  \n#b#t2012002# #b#c2012002##k/20"/>
         <string name="2" value="收到了作为回报的 #r#t2010005##k 。味道好极了，感觉充满活力。"/>
         <int name="area" value="30"/>
     </imgdir>
