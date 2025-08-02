@@ -43723,8 +43723,8 @@
             <string name="1" value="在冒险岛集市里，你可以找到平常不会见到的特殊物品，欢迎到明天亲自确认一下！"/>
             <string name="2" value="如果你加入我这个努力，我会相应地奖励你。你怎么说，你会帮我吗？拜托？"/>
             <imgdir name="yes">
-                <string name="0" value="冒险岛集市就在明天喔！可别忘了！"/>
-                <string name="1" value="哦，我也需要 #i4030009# #b#t4030009#s#k 和 #i3010001# #b#t3010001#s#k。关于椅子，你可以在 #b#p1001001##k 那里找到 #bLith Harbor#k 卖的。."/>
+                <string name="0" value="好的！我需要一些五目石，它们的外形像这些怪物：#i4030000# #b绿水灵#k、#i4030001# #b花蘑菇#k、#i4030010# #b三眼章鱼#k、#i4030011# #b猪猪#k、#i4030013# #b吹泡泡双鱼#k、#i4030014# #b玩具粉熊#k、#i4030015# #b玩具熊猫#k 和 #i4030016# #b绿蜘蛛#k。"/>
+                <string name="1" value="哦，我也需要 #i4030009# #b#t4030009##k 和 #i3010001# #b#t3010001##k。关于椅子，你可以从 #b明珠港##k 的 #b#p1001001##k 那里买到。"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="在冒险岛集市里，你可以找到平常不会见到的特殊物品，欢迎到明天亲自确认一下！"/>
@@ -43734,7 +43734,7 @@
             <string name="0" value="哇 ... 你带来了所有需要的东西！这里有一些特别的东西给你。享受吧。!"/>
             <imgdir name="stop">
                 <imgdir name="item">
-                    <string name="0" value="请快点给我拿来奥莫克棋子。"/>
+                    <string name="0" value="请快点拿给我五目石。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
