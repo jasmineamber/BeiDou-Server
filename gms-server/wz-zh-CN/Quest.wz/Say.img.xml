@@ -14677,7 +14677,7 @@
             </imgdir>
         </imgdir>
         <imgdir name="1">
-            <string name="0" value="我是从#g#p1012109##k那里借了书的#g#p9201118##k。啊，你是来帮忙的吧？"/>
+            <string name="0" value="我是从#b#p1012109##k那里借了书的#b#p9201118##k。啊，你是来帮忙的吧？"/>
             <imgdir name="yes">
                 <string name="0" value="我的确借了书...\n不过说实话，我给弄丢了！\n\n等你再来找我的时候我告诉你详细情况。"/>
             </imgdir>
@@ -14701,7 +14701,7 @@
             </imgdir>
         </imgdir>
         <imgdir name="0">
-            <string name="0" value="我在阅读从#g#p1012109##k那里借来的这本书，这时看到了一个非常漂亮的雕像。\n因此，我让#b诺特勒斯#k的#b#p1072008##k帮我找寻这个雕像，如果她路过#b神木村#k的话。\n\n不过我在回到#b射手村#k的途中把那本书给弄丢了。请帮我找回那本书！"/>
+            <string name="0" value="我在阅读从#b#p1012109##k那里借来的这本书，这时看到了一个非常漂亮的雕像。\n因此，我让#b诺特勒斯#k的#b#p1072008##k帮我找寻这个雕像，如果她路过#b神木村#k的话。\n\n不过我在回到#b射手村#k的途中把那本书给弄丢了。请帮我找回那本书！"/>
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
@@ -14718,7 +14718,7 @@
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="你知道#g#p1012109##k在#b射手村#k吧？请你帮我把#r失落的书籍#k交给#g#p1012109##k。\n\n对了，我还要谢谢你的帮助。如果没有你的话，#p1012109#肯定不会再信任我了。#p1012109#有很多有用的书，以后我都想借来看看。呵呵！"/>
+                <string name="0" value="你知道#b#p1012109##k在#b射手村#k吧？请你帮我把#r失落的书籍#k交给#b#p1012109##k。\n\n对了，我还要谢谢你的帮助。如果没有你的话，#p1012109#肯定不会再信任我了。#p1012109#有很多有用的书，以后我都想借来看看。呵呵！"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="你就不能最后再帮我一次吗？"/>
@@ -14806,7 +14806,7 @@
             </imgdir>
             <imgdir name="yes">
                 <string name="0" value="昨天晚上弹吉他的时候，我听其他同事说上面的#b魔法密林#k好像发生了重大盗窃事件。\n听说很多货币失窃了！"/>
-                <string name="1" value="如果你想知道详细的情况，最好去见见#b魔法密林#k的#g#p1032001##k。"/>
+                <string name="1" value="如果你想知道详细的情况，最好去见见#b魔法密林#k的#b#p1032001##k。"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="我来弹奏一曲吧？"/>
@@ -14894,16 +14894,16 @@
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p1032001##k位于#b魔法密林#k。"/>
+                    <string name="0" value="#b#p1032001##k位于#b魔法密林#k。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
         <imgdir name="0">
-            <string name="0" value="问题很严重。必须赶快把怪物的样子告诉#b魔法密林#k的#g#p1032001##k！"/>
+            <string name="0" value="问题很严重。必须赶快把怪物的样子告诉#b魔法密林#k的#b#p1032001##k！"/>
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="赶紧！\n快去找#b魔法密林#k的#g#p1032001##k，告诉他我们看到了什么。"/>
+                <string name="0" value="赶紧！\n快去找#b魔法密林#k的#b#p1032001##k，告诉他我们看到了什么。"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="还需要我强调吗？这件事情非常紧急？！"/>
@@ -14913,11 +14913,11 @@
     <imgdir name="28216">
         <imgdir name="0">
             <string name="0" value="我敢打包票，你看到的是很久以前被封印在废都的恶魔#r沃勒福#k。\n他喜欢偷东西。\n怪不得金银岛最近总是出现偷盗事件。"/>
-            <string name="1" value="真可恶！我们的钱可能已经被偷空了。恶魔就是喜欢偷东西，本性如此。丢了的东西已经丢了，先不去管它。必须尽快把这件事告诉#b废都#k的#g#p1052001##k。"/>
+            <string name="1" value="真可恶！我们的钱可能已经被偷空了。恶魔就是喜欢偷东西，本性如此。丢了的东西已经丢了，先不去管它。必须尽快把这件事告诉#b废都#k的#b#p1052001##k。"/>
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="赶快！\n#r沃勒福#k...\n\n把这件事情告诉#b废都#k的#g#p1052001##k！"/>
+                <string name="0" value="赶快！\n#r沃勒福#k...\n\n把这件事情告诉#b废都#k的#b#p1052001##k！"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="现在不是胡闹的时候！"/>
@@ -14926,11 +14926,11 @@
         <imgdir name="1">
             <string name="0" value="好久不见。原来你只是个新手，不过成长的真快！\n\n你急急忙忙地跑过来，有什么事吗？"/>
             <imgdir name="yes">
-                <string name="0" value="什么？#r沃勒福#k？\n是谁说的？\n\n(讲述之前发生的事情。)\n\n嗯，#b魔法密林#k的#g#p1032001##k说的话，一定不会有错。"/>
+                <string name="0" value="什么？#r沃勒福#k？\n是谁说的？\n\n(讲述之前发生的事情。)\n\n嗯，#b魔法密林#k的#b#p1032001##k说的话，一定不会有错。"/>
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p1052001##k位于#b废都#k。"/>
+                    <string name="0" value="#b#p1052001##k位于#b废都#k。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -14942,20 +14942,20 @@
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="废都#b地铁入口#k有个名叫#g#p1052102##k的少女，她脑子里只有钱。无论谁路过，她都会请求人们帮忙找回丢失的金钱！\n\n她那里可能有特别值钱的物品。你去找她吧。"/>
+                <string name="0" value="废都#b地铁入口#k有个名叫#b#p1052102##k的少女，她脑子里只有钱。无论谁路过，她都会请求人们帮忙找回丢失的金钱！\n\n她那里可能有特别值钱的物品。你去找她吧。"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="难道要我去吗？"/>
             </imgdir>
         </imgdir>
         <imgdir name="1">
-            <string name="0" value="你好！我是#g#p1052102##k。你有什么事吗？"/>
+            <string name="0" value="你好！我是#b#p1052102##k。你有什么事吗？"/>
             <imgdir name="yes">
                 <string name="0" value="看起来值钱的东西？我当然有了。\n\n但我不能免费给你。"/>
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p1052102##k位于#b废都#k。"/>
+                    <string name="0" value="#b#p1052102##k位于#b废都#k。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -14975,7 +14975,7 @@
         <imgdir name="1">
             <string name="0" value="哇，你比我预想的要能干得多嘛？呵呵。\n\n但我不能给你非常贵重的物品。我会给你一个#r大型钱币模型#k。这东西可以用作诱饵的，对吧？这应该能够起到作用。"/>
             <imgdir name="yes">
-                <string name="0" value="你收下这个，去见见#b废都#k的#g#p1052001##k吧。"/>
+                <string name="0" value="你收下这个，去见见#b废都#k的#b#p1052001##k吧。"/>
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="mob">
@@ -15014,20 +15014,20 @@
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="这种乐于挑战的精神很好。\n请你去见见#b射手村#k的#g#p9201118##k。"/>
+                <string name="0" value="这种乐于挑战的精神很好。\n请你去见见#b射手村#k的#b#p9201118##k。"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="你必须接受。"/>
             </imgdir>
         </imgdir>
         <imgdir name="1">
-            <string name="0" value="是#g#p1012100##k让你来的吧。欢迎。"/>
+            <string name="0" value="是#b#p1012100##k让你来的吧。欢迎。"/>
             <imgdir name="yes">
                 <string name="0" value="只是基本的训练而已，请不要担心，哈哈。"/>
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p9201118##k位于#b射手村#k。"/>
+                    <string name="0" value="#b#p9201118##k位于#b射手村#k。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -15081,7 +15081,7 @@
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="#g#p1012100##k的家有点远吧？可能因为那里视野好，所以她不想搬到别的地方去。\n\n你现在就出发吧！"/>
+                <string name="0" value="#b#p1012100##k的家有点远吧？可能因为那里视野好，所以她不想搬到别的地方去。\n\n你现在就出发吧！"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="为什么拒绝？你只需要向她报告而已啊。"/>
@@ -15094,7 +15094,7 @@
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p1012100##k位于#b射手村#k。"/>
+                    <string name="0" value="#b#p1012100##k位于#b射手村#k。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -15105,27 +15105,27 @@
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="不久前我在#g#p1012109##k借给我的书里，看到了非常漂亮的古董。\n\n所以我告诉#b诺特勒斯#k的#b#p1072008##k，如果她去神木村的话就帮我找一件这样的古董，结果她真的找到了！\n\n你可以去#b诺特勒斯#k向#b#p1072008##k要回我的#r古董#k吗？"/>
+                <string name="0" value="不久前我在#b#p1012109##k借给我的书里，看到了非常漂亮的古董。\n\n所以我告诉#b诺特勒斯#k的#b#p1072008##k，如果她去神木村的话就帮我找一件这样的古董，结果她真的找到了！\n\n你可以去#b诺特勒斯#k向#b#p1072008##k要回我的#r古董#k吗？"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="还没准备好吗？"/>
             </imgdir>
         </imgdir>
         <imgdir name="1">
-            <string name="0" value="欢迎光临。\n\n是#g#p9201118##k让你来的吗？"/>
+            <string name="0" value="欢迎光临。\n\n是#b#p9201118##k让你来的吗？"/>
             <imgdir name="yes">
                 <string name="0" value="但是#r古董#k现在不在这里..."/>
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p1072008##k位于#b诺特勒斯#k上。"/>
+                    <string name="0" value="#b#p1072008##k位于#b诺特勒斯#k上。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
     </imgdir>
     <imgdir name="28225">
         <imgdir name="0">
-            <string name="0" value="我想起#g#p9201118##k要的#r古董#k了。从哪里来着...\n\n#b神木村#k吧？我记得就是神木村，但古董不在我房间里。我把它放在地下室了。"/>
+            <string name="0" value="我想起#b#p9201118##k要的#r古董#k了。从哪里来着...\n\n#b神木村#k吧？我记得就是神木村，但古董不在我房间里。我把它放在地下室了。"/>
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
@@ -15213,7 +15213,7 @@
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p1012003##k位于#b射手村#k。"/>
+                    <string name="0" value="#b#p1012003##k位于#b射手村#k。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -15250,7 +15250,7 @@
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="根据传说，消灭了恶魔之后，这把弓就被封印了起来。\n\n至于为什么要封印，我也不太清楚。你去#b#m101010103##k，应该可以见到#g#p9201122##k。"/>
+                <string name="0" value="根据传说，消灭了恶魔之后，这把弓就被封印了起来。\n\n至于为什么要封印，我也不太清楚。你去#b#m101010103##k，应该可以见到#b#p9201122##k。"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="你想继续演奏陶笛吗？"/>
@@ -15301,7 +15301,7 @@
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="那你就去见见#b勇士部落#k的#g#p1022000##k，他一定知道详细的情况。"/>
+                <string name="0" value="那你就去见见#b勇士部落#k的#b#p1022000##k，他一定知道详细的情况。"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="你不想知道吗？"/>
@@ -15314,7 +15314,7 @@
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p1022000##k位于#b勇士部落#k。"/>
+                    <string name="0" value="#b#p1022000##k位于#b勇士部落#k。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -15352,7 +15352,7 @@
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p1052001##k位于#b废都#k。"/>
+                    <string name="0" value="#b#p1052001##k位于#b废都#k。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -15363,7 +15363,7 @@
             <imgdir name="stop">
             </imgdir>
             <imgdir name="yes">
-                <string name="0" value="你先去见见#b废都#k的#g#p1052001##k，了解一下有关弓的最新消息。他应该知道些什么。"/>
+                <string name="0" value="你先去见见#b废都#k的#b#p1052001##k，了解一下有关弓的最新消息。他应该知道些什么。"/>
             </imgdir>
             <imgdir name="no">
                 <string name="0" value="时间紧急...我实在是坐立不安！"/>
@@ -15411,11 +15411,11 @@
         <imgdir name="1">
             <string name="0" value="很久不见。欢迎回来。很明显你成长了很多。\n\n那不是#r所罗门之弓#k吗？你怎么得到的？"/>
             <imgdir name="yes">
-                <string name="0" value="原来如此...\n#g#p1052001##k...听说他在情报搜集能力方面数一数二，直觉也非常敏锐。\n\n他说的没错。我就是#r所罗门之弓#k铸造者的后人。"/>
+                <string name="0" value="原来如此...\n#b#p1052001##k...听说他在情报搜集能力方面数一数二，直觉也非常敏锐。\n\n他说的没错。我就是#r所罗门之弓#k铸造者的后人。"/>
             </imgdir>
             <imgdir name="stop">
                 <imgdir name="npc">
-                    <string name="0" value="#g#p1012100##k位于#b射手村#k。"/>
+                    <string name="0" value="#b#p1012100##k位于#b射手村#k。"/>
                 </imgdir>
             </imgdir>
         </imgdir>
@@ -35142,7 +35142,7 @@
             </imgdir>
         </imgdir>
         <imgdir name="0">
-            <string name="0" value="请帮忙消灭#g恶小丑杰克#k！"/>
+            <string name="0" value="请帮忙消灭#b恶小丑杰克#k！"/>
             <imgdir name="yes">
                 <string name="0" value="我会等你的。"/>
             </imgdir>
@@ -35164,7 +35164,7 @@
             </imgdir>
         </imgdir>
         <imgdir name="0">
-            <string name="0" value="请帮忙消灭#g傀儡娃娃#k！"/>
+            <string name="0" value="请帮忙消灭#b傀儡娃娃#k！"/>
             <imgdir name="yes">
                 <string name="0" value="我会等你的。"/>
             </imgdir>
@@ -35186,7 +35186,7 @@
             </imgdir>
         </imgdir>
         <imgdir name="0">
-            <string name="0" value="请帮忙消灭#g地狱木马#！"/>
+            <string name="0" value="请帮忙消灭#b地狱木马#！"/>
             <imgdir name="yes">
                 <string name="0" value="我会等你的。"/>
             </imgdir>
