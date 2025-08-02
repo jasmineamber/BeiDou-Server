@@ -1992,7 +1992,7 @@
     <imgdir name="10390">
         <string name="name" value="Teo&apos;s Nostaligic Reminiscing I"/>
         <string name="0" value="You can apparently get some help from #b#p1002001##k at Lith Harbor..."/>
-        <string name="1" value="You run into #b#p1002001##k at Lith Harbor. #b#p1002001##k takes one look at you, then tells you how you remind him of himself in his younger, traveling days, so he feels the need to help you. He says if you can gather #b100 #t4000016#s#k and #b50 #t4000004#s#k, he&apos;ll acknowledge that you are worthy and give you his support. Ha, this should be quite a breeze for a great adventurer like you.\n\n#t4000016# #b#c4000016#/100#k\n#t4000004# #b#c4000004#/50#k"/>
+        <string name="1" value="You run into #b#p1002001##k at Lith Harbor. #b#p1002001##k takes one look at you, then tells you how you remind him of himself in his younger, traveling days, so he feels the need to help you. He says if you can gather #b100 #t4000016##k and #b50 #t4000004##k, he&apos;ll acknowledge that you are worthy and give you his support. Ha, this should be quite a breeze for a great adventurer like you.\n\n#t4000016# #b#c4000016#/100#k\n#t4000004# #b#c4000004#/50#k"/>
         <string name="2" value="You showed #b#p1002001##k at Lith Harbor what you were made of as an adventurer. #b#p1002001##k recognized the potential in you and gave you some money to use on your journeys. You&apos;re going to put this to good use and become an excellent adventurer."/>
         <int name="area" value="50"/>
         <string name="demandSummary" value="#i4000016:# #t4000016:# #c4000016# / 100"/>
@@ -2152,7 +2152,7 @@
         <string name="0" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="1" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="2" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
-        <string name="summary" value="Gather 20 #b#t4032418#s#k dropped by monsters and take them to Cassandra."/>
+        <string name="summary" value="Gather 20 #b#t4032418##k dropped by monsters and take them to Cassandra."/>
         <string name="demandSummary" value="#i4032418:# #t4032418:# #c4032418# / 20"/>
         <string name="rewardSummary" value="Winter Bingo Stamp"/>
     </imgdir>
@@ -2164,7 +2164,7 @@
         <string name="0" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="1" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="2" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
-        <string name="summary" value="Gather 20 #b#t4032419#s#k dropped by monsters and take them to Cassandra."/>
+        <string name="summary" value="Gather 20 #b#t4032419##k dropped by monsters and take them to Cassandra."/>
         <string name="demandSummary" value="#i4032419:# #t4032419:# #c4032419# / 20"/>
         <string name="rewardSummary" value="Winter Bingo Stamp"/>
     </imgdir>
@@ -2176,7 +2176,7 @@
         <string name="0" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="1" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="2" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
-        <string name="summary" value="Gather 20 #b#t4032420#s#k dropped by monsters and take them to Cassandra."/>
+        <string name="summary" value="Gather 20 #b#t4032420##k dropped by monsters and take them to Cassandra."/>
         <string name="demandSummary" value="#i4032420:# #t4032420:# #c4032420# / 20"/>
         <string name="rewardSummary" value="Winter Bingo Stamp"/>
     </imgdir>
@@ -2188,7 +2188,7 @@
         <string name="0" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="1" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="2" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
-        <string name="summary" value="Gather 20 #b#t4032421#s#k dropped by monsters and take them to Cassandra."/>
+        <string name="summary" value="Gather 20 #b#t4032421##k dropped by monsters and take them to Cassandra."/>
         <string name="demandSummary" value="#i4032421:# #t4032421:# #c4032421# / 20"/>
         <string name="rewardSummary" value="Winter Bingo Stamp"/>
     </imgdir>
@@ -2208,7 +2208,7 @@
         <string name="0" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="1" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
         <string name="2" value="There&apos;s no better time for Bingo than in the middle of a dreary winter! Check the Bingo board every day and receive some awesome prizes when you&apos;ve filled up the entire Bingo board! Try making it to the game every day!\n\n&lt;Event Periods&gt;\nFebruary 22, 2010 - March 26, 2010"/>
-        <string name="summary" value="Gather 20 #b#t4032422#s#k dropped by monsters and take them to Cassandra."/>
+        <string name="summary" value="Gather 20 #b#t4032422##k dropped by monsters and take them to Cassandra."/>
         <string name="demandSummary" value="#i4032422:# #t4032422:# #c4032422# / 20"/>
         <string name="rewardSummary" value="Winter Bingo Stamp"/>
     </imgdir>
@@ -2806,7 +2806,7 @@
         <int name="area" value="30"/>
         <string name="summary" value="需要搜集酋长修理房屋所需的材料。"/>
         <string name="demandSummary" value="#i4000018:# #t4000018:# #c4000018# / 50"/>
-        <string name="rewardSummary" value="经验值 300 #Wprob# #i1092000:# #t1092000:# #c1092000# 1 个 #i1092001:# #t1092001:# #c1092001# 1 个 "/>
+        <string name="rewardSummary" value="经验值 300 #Wprob# #i1092000:# #t1092000:# #c1092000# 1个#i1092001:# #t1092001:# #c1092001# 1个"/>
     </imgdir>
     <imgdir name="20000">
         <string name="name" value="女皇的会面"/>
@@ -3666,7 +3666,7 @@
         <int name="order" value="1"/>
         <string name="summary" value="使英雄战剑觉醒，交给麦吉。"/>
         <string name="demandSummary" value="#i4031144:# #t4031144:# #c4031144# / 1 "/>
-        <string name="rewardSummary" value="经验值 7,500 #Wselect# #i1302015:# #t1302015:# 1 个 #i1032012:# #t1032012:# 1 个 以&apos;旧战剑唤醒办法&apos;任务开始进行. 以&apos;麦吉的旧战剑&apos;任务开始进行. "/>
+        <string name="rewardSummary" value="经验值 7,500 #Wselect# #i1302015:# #t1302015:# 1个#i1032012:# #t1032012:# 1个以&apos;旧战剑唤醒办法&apos;任务开始进行. 以&apos;麦吉的旧战剑&apos;任务开始进行. "/>
     </imgdir>
     <imgdir name="2048">
         <string name="name" value="旧战剑唤醒办法"/>
@@ -3678,7 +3678,7 @@
         <int name="order" value="2"/>
         <string name="summary" value="寻找使英雄战剑觉醒的材料，交给克利斯拉玛。"/>
         <string name="demandSummary" value="#i4001006:# #t4001006:# #c4001006# / 1 #i1302014:# #t1302014:# #c1302014# / 1 #i4003002:# #t4003002:# #c4003002# / 1 #i4021009:# #t4021009:# #c4021009# / 1 #i4001005:# #t4001005:# #c4001005# / 1 "/>
-        <string name="rewardSummary" value="经验值 8,000 #Wbasic# #i4031144:# #t4031144:# 1 个 "/>
+        <string name="rewardSummary" value="经验值 8,000 #Wbasic# #i4031144:# #t4031144:# 1个"/>
     </imgdir>
     <imgdir name="2049">
         <string name="name" value="妖精 玛丽和生命水"/>
@@ -10004,7 +10004,7 @@
         <int name="viewMedalItem" value="1140001"/>
         <string name="name" value="2010 Winter King"/>
         <string name="0" value="With the chilly winter once again here, a special title has been prepared for everyone. Visit #b#p9010010##k, located in every town! \r\n#b*Note: You are only eligible for the 2010 Winter King or 2010 Winter Queen title that matches your gender."/>
-        <string name="1" value="#e#bChallenge yourself to the 2010 Winter King title#k#n\r\n* Requirements : #bAcquire at least 20 #t1140000:#s#kduring the event period\r\n* Event: #b20/1/2010 16/2/2010#k\r\n"/>
+        <string name="1" value="#e#bChallenge yourself to the 2010 Winter King title#k#n\r\n* Requirements : #bAcquire at least 20 #t1140000:##kduring the event period\r\n* Event: #b20/1/2010 16/2/2010#k\r\n"/>
         <string name="2" value="Acquired the title #b2010 Winter King#."/>
     </imgdir>
     <imgdir name="29930">
@@ -10013,7 +10013,7 @@
         <int name="viewMedalItem" value="1141001"/>
         <string name="name" value="2010 Winter Queen"/>
         <string name="0" value="With the chilly winter once again here, a special title has been prepared for everyone. Visit #b#p9010010##k, located in every town! \r\n#b*Note: You are only eligible for the 2010 Winter King or 2010 Winter Queen title that matches your gender."/>
-        <string name="1" value="#e#bChallenge yourself to the 2010 Winter Queen title#k#n\r\n* Requirements : #bAcquire at least 20 #t1140000:#s#kduring the event period\r\n* Event: #b20/1/2010 16/2/2010#k"/>
+        <string name="1" value="#e#bChallenge yourself to the 2010 Winter Queen title#k#n\r\n* Requirements : #bAcquire at least 20 #t1140000:##kduring the event period\r\n* Event: #b20/1/2010 16/2/2010#k"/>
         <string name="2" value="Acquired the title #b2010 Winter Queen#."/>
     </imgdir>
     <imgdir name="29931">
@@ -10086,7 +10086,7 @@
         <string name="parent" value="阿尔法部队联络网"/>
         <string name="summary" value="回到珀斯上尉那里。"/>
         <string name="demandSummary" value="#i4031049:# #t4031049:# #c4031049# / 3 "/>
-        <string name="rewardSummary" value="经验值 7,000 #Wprob# #i2040704:# #t2040704:# 1 个 #i2040705:# #t2040705:# 1 个 #i2040707:# #t2040707:# 1 个 #i2040708:# #t2040708:# 1 个 "/>
+        <string name="rewardSummary" value="经验值 7,000 #Wprob# #i2040704:# #t2040704:# 1个#i2040705:# #t2040705:# 1个#i2040707:# #t2040707:# 1个#i2040708:# #t2040708:# 1个"/>
     </imgdir>
     <imgdir name="3004">
         <string name="name" value="《上古魔书》作者的后代"/>
@@ -10209,7 +10209,7 @@
         <int name="area" value="33"/>
         <string name="summary" value="带着妖精的粉末回到斯皮罗纳那里。"/>
         <string name="demandSummary" value="#i4031051:# #t4031051:# #c4031051# / 1 "/>
-        <string name="rewardSummary" value="经验值 10,590 #Wprob# #i2041001:# #t2041001:# 1 个 #i2041002:# #t2041002:# 1 个 #i2041004:# #t2041004:# 1 个 #i2041005:# #t2041005:# 1 个 以&apos;判明真实&apos; 任务开始进行. "/>
+        <string name="rewardSummary" value="经验值 10,590 #Wprob# #i2041001:# #t2041001:# 1个#i2041002:# #t2041002:# 1个#i2041004:# #t2041004:# 1个#i2041005:# #t2041005:# 1个以&apos;判明真实&apos; 任务开始进行. "/>
     </imgdir>
     <imgdir name="3015">
         <string name="name" value="判明真实"/>
@@ -10232,7 +10232,7 @@
         <int name="area" value="33"/>
         <string name="summary" value="将赫拉的吊坠交给冰峰雪域的杰德。"/>
         <string name="demandSummary" value="#i4031052:# #t4031052:# #c4031052# / 1 "/>
-        <string name="rewardSummary" value="经验值 12,320 #Wprob# #i2040701:# #t2040701:# 1 个 #i2040702:# #t2040702:# 1 个 #i2040707:# #t2040707:# 1 个 #i2040708:# #t2040708:# 1 个 以&apos;小墓地&apos; 任务开始进行. "/>
+        <string name="rewardSummary" value="经验值 12,320 #Wprob# #i2040701:# #t2040701:# 1个#i2040702:# #t2040702:# 1个#i2040707:# #t2040707:# 1个#i2040708:# #t2040708:# 1个以&apos;小墓地&apos; 任务开始进行. "/>
     </imgdir>
     <imgdir name="3017">
         <string name="name" value="小墓地"/>
@@ -11419,8 +11419,8 @@
         <string name="name" value="Operation Strategy 3: A Cute Baby Bird"/>
         <string name="parent" value="The Clocktower Monster Wipe-Out Operation"/>
         <int name="order" value="3"/>
-        <string name="1" value="#p2041026# seems to be preoccupied with raising birds. According to the new research conducted, #o5220003#s have undergone changes under the management of Papulatus, but can make great pets when tamed. He has given you a cute baby bird, saying you can feed the bird #b#t4031992#s#k that can be obtained from the Clocktower Monsters. He has asked you to return the bird when it&apos;s fully grown."/>
-        <string name="2" value="The baby bird has become full-fledged since you&apos;ve been diligently feeding the bird #t4031992#s. Although it&apos;s sad to let go of the bird to which you have grown attached, but you have no choice but to return the bird to Ghosthunter Bob. Be well, bird."/>
+        <string name="1" value="#p2041026# seems to be preoccupied with raising birds. According to the new research conducted, #o5220003# have undergone changes under the management of Papulatus, but can make great pets when tamed. He has given you a cute baby bird, saying you can feed the bird #b#t4031992##k that can be obtained from the Clocktower Monsters. He has asked you to return the bird when it&apos;s fully grown."/>
+        <string name="2" value="The baby bird has become full-fledged since you&apos;ve been diligently feeding the bird #t4031992#. Although it&apos;s sad to let go of the bird to which you have grown attached, but you have no choice but to return the bird to Ghosthunter Bob. Be well, bird."/>
         <int name="area" value="37"/>
     </imgdir>
     <imgdir name="3300">
@@ -15567,8 +15567,8 @@
         <string name="parent" value="Brand Materia"/>
         <int name="order" value="1"/>
         <string name="0" value="Looks like the Glimmer Man is looking for a rare material from the alternate dimension of Versal, the very #b#t4031760##k that I now possess.  Perhaps I should visit him in New Leaf City and see what he wants with it.  Maybe he&apos;ll reward me for bringing him some..."/>
-        <string name="1" value="I visited the Glimmer Man, and discovered that he&apos;s an ultra-powerful mage whose ability to turn his entire body into pure diamond (hence his name) has allowed him to journey to space and other inhospitable environments.  Through the vast knowledge he&apos;s acquired during his explorations, he&apos;s also become somewhat of a renowned weapons creator and arms dealer.\r\nThe Glimmer Man has landed in Masteria looking for something called #b#t4031760##k, a rare element from the alternate dimension of Versal he&apos;s been dying to experiment with.  To thank me for recovering some and bringing it to him, he&apos;s promised to make me a weapon of my own from it. However, I&apos;ve got to also track down #b7 #t4021008#s#k and return these to him as well.  Only then can he reduce the naturally unstable Materia down to a useable form.  A weapon made from an otherwordly material! I wonder what it does..."/>
-        <string name="2" value="I returned to the Glimmer Man and he synthesized the #b#t4031760##k and the #b7 #t4021008#s#k I gave him to form a Materia Orb.  He&apos;s said his precocious friend Spindle can turn this into a weapon, so I should see him when I&apos;m ready to make the weapon...WOOT!  Spindle is currently residing in the Omega Sector.  Additionally, anytime I find more White Versal Materia, I can bring it to the Glimmer Man and he&apos;ll create another Materia Orb for me so I can make another weapon!"/>
+        <string name="1" value="I visited the Glimmer Man, and discovered that he&apos;s an ultra-powerful mage whose ability to turn his entire body into pure diamond (hence his name) has allowed him to journey to space and other inhospitable environments.  Through the vast knowledge he&apos;s acquired during his explorations, he&apos;s also become somewhat of a renowned weapons creator and arms dealer.\r\nThe Glimmer Man has landed in Masteria looking for something called #b#t4031760##k, a rare element from the alternate dimension of Versal he&apos;s been dying to experiment with.  To thank me for recovering some and bringing it to him, he&apos;s promised to make me a weapon of my own from it. However, I&apos;ve got to also track down #b7 #t4021008##k and return these to him as well.  Only then can he reduce the naturally unstable Materia down to a useable form.  A weapon made from an otherwordly material! I wonder what it does..."/>
+        <string name="2" value="I returned to the Glimmer Man and he synthesized the #b#t4031760##k and the #b7 #t4021008##k I gave him to form a Materia Orb.  He&apos;s said his precocious friend Spindle can turn this into a weapon, so I should see him when I&apos;m ready to make the weapon...WOOT!  Spindle is currently residing in the Omega Sector.  Additionally, anytime I find more White Versal Materia, I can bring it to the Glimmer Man and he&apos;ll create another Materia Orb for me so I can make another weapon!"/>
         <int name="area" value="50"/>
     </imgdir>
     <imgdir name="4925">
@@ -15576,8 +15576,8 @@
         <string name="parent" value="Brand Materia"/>
         <int name="order" value="2"/>
         <string name="0" value="Looks like the Glimmer Man is looking for a rare material from the alternate dimension of Versal, the very #b#t4031760##k that I now possess.  Perhaps I should visit him in New Leaf City and see what he wants with it.  Maybe he&apos;ll reward me for bringing him some..."/>
-        <string name="1" value="I visited the Glimmer Man, and discovered that he&apos;s an ultra-powerful mage whose ability to turn his entire body into pure diamond (hence his name) has allowed him to journey to space and other inhospitable environments.  Through the vast knowledge he&apos;s acquired during his explorations, he&apos;s also become somewhat of a renowned weapons creator and arms dealer.\r\nThe Glimmer Man has landed in Masteria looking for something called #b#t4031760##k, a rare element from the alternate dimension of Versal he&apos;s been dying to experiment with.  To thank me for recovering some and bringing it to him, he&apos;s promised to make me a weapon of my own from it. However, I&apos;ve got to also track down #b7 #t4021008#s#k and return these to him as well.  Only then can he reduce the naturally unstable Materia down to a useable form.  A weapon made from an otherwordly material! I wonder what it does..."/>
-        <string name="2" value="I returned to the Glimmer Man and he synthesized the #b#t4031760##k and the #b7 #t4021008#s#k I gave him to form a Materia Orb.  He&apos;s said his precocious friend Spindle can turn this into a weapon, so I should see him when I&apos;m ready to make the weapon...WOOT!  Spindle is currently residing in the Omega Sector.  Additionally, anytime I find more White Versal Materia, I can bring it to the Glimmer Man and he&apos;ll create another Materia Orb for me so I can make another weapon!"/>
+        <string name="1" value="I visited the Glimmer Man, and discovered that he&apos;s an ultra-powerful mage whose ability to turn his entire body into pure diamond (hence his name) has allowed him to journey to space and other inhospitable environments.  Through the vast knowledge he&apos;s acquired during his explorations, he&apos;s also become somewhat of a renowned weapons creator and arms dealer.\r\nThe Glimmer Man has landed in Masteria looking for something called #b#t4031760##k, a rare element from the alternate dimension of Versal he&apos;s been dying to experiment with.  To thank me for recovering some and bringing it to him, he&apos;s promised to make me a weapon of my own from it. However, I&apos;ve got to also track down #b7 #t4021008##k and return these to him as well.  Only then can he reduce the naturally unstable Materia down to a useable form.  A weapon made from an otherwordly material! I wonder what it does..."/>
+        <string name="2" value="I returned to the Glimmer Man and he synthesized the #b#t4031760##k and the #b7 #t4021008##k I gave him to form a Materia Orb.  He&apos;s said his precocious friend Spindle can turn this into a weapon, so I should see him when I&apos;m ready to make the weapon...WOOT!  Spindle is currently residing in the Omega Sector.  Additionally, anytime I find more White Versal Materia, I can bring it to the Glimmer Man and he&apos;ll create another Materia Orb for me so I can make another weapon!"/>
         <int name="area" value="50"/>
     </imgdir>
     <imgdir name="4926">
@@ -17852,50 +17852,50 @@
     <imgdir name="8032">
         <string name="name" value="碰碰战争"/>
         <string name="0" value="来自昭和村的嘉美似乎遇到了麻烦。趁着还有时间，我去看看吧。"/>
-        <string name="1" value="我不知道碰碰战争到底是怎么回事，但为了削铅笔，我需要收集 #b30 #t04000110#s#k。我得赶快把它们收集起来交给嘉美。\n#t04000110#  #b#c04000110##k/30"/>
+        <string name="1" value="我不知道碰碰战争到底是怎么回事，但为了削铅笔，我需要收集 #b30 #t04000110##k。我得赶快把它们收集起来交给嘉美。\n#t04000110#  #b#c04000110##k/30"/>
         <string name="2" value="对了，那把塑料刀真的能削铅笔吗？算了，嘉美声称他明天会在碰碰战争中获胜，所以……"/>
         <int name="area" value="48"/>
     </imgdir>
     <imgdir name="8033">
         <string name="name" value="Youthful Mariwaka"/>
         <string name="0" value="Mariwaka of Showa Town apparently has great concern. I should at least listen to her and see what the fuss is about."/>
-        <string name="1" value=" Mariwaka desired to keep her beauty eternal, and she found out about a potion that&apos;ll help her do so. Sounds very fishy, but since she really believes in it, I should get her #b50 #t04000149#s#k for her eternal beauty.\n#t04000149# #b#c04000149##k/50"/>
+        <string name="1" value=" Mariwaka desired to keep her beauty eternal, and she found out about a potion that&apos;ll help her do so. Sounds very fishy, but since she really believes in it, I should get her #b50 #t04000149##k for her eternal beauty.\n#t04000149# #b#c04000149##k/50"/>
         <string name="2" value="I really doubt that those potions enable eternal youth. Oh well, she likes it anyways, and that&apos;s the bottom line. I&apos;ll just leave her be."/>
         <int name="area" value="48"/>
     </imgdir>
     <imgdir name="8034">
-        <string name="name" value="玛雅的关切 1"/>
-        <string name="parent" value="玛雅的关切"/>
+        <string name="name" value="玛亚的担忧 1"/>
+        <string name="parent" value="玛亚的担忧"/>
         <int name="order" value="1"/>
-        <string name="0" value="对了，玛雅最近怎么样？我得去看看她！"/>
-        <string name="1" value="玛雅正在照顾一只重伤的小狮子。我知道这并不是大家希望我们做的事情，但玛雅坚持要这么做，我必须支持她。唉……为了处理伤口，她说需要 #b50 #t02050003#s#k, #b20 #t04000086#s#k 和 #b20 #t04000023#s#k。\n\n#t02050003# #b#c02050003##k/50\n#t04000086#  #b#c04000086##k/20\n#t04000023#  #b#c04000023##k/20"/>
+        <string name="0" value="对了，玛亚最近怎么样？我得去看看她！"/>
+        <string name="1" value="玛亚正在照顾一只重伤的小狮子。我知道这并不是大家希望我们做的事情，但玛亚坚持要这么做，我必须支持她。唉……为了处理伤口，她说需要 #b50个#t02050003##k, #b20个#t04000086##k 和 #b20个#t04000023##k。\n\n#t02050003# #b#c02050003##k/50\n#t04000086#  #b#c04000086##k/20\n#t04000023#  #b#c04000023##k/20"/>
         <string name="2" value="伤口已经消毒，但小狮子需要休息。它似乎因为这一切而非常疲惫。"/>
         <int name="area" value="30"/>
     </imgdir>
     <imgdir name="8035">
-        <string name="name" value="玛雅的关切 2"/>
-        <string name="parent" value="玛雅的关切"/>
+        <string name="name" value="玛亚的担忧 2"/>
+        <string name="parent" value="玛亚的担忧"/>
         <int name="order" value="2"/>
-        <string name="0" value="小狮子的情况让我很担心。我得去玛雅家看看。"/>
-        <string name="1" value="现在，小狮子中毒了！为了排毒，需要#b50 #t02050000##ks、#b30 #t04000076#s#k和#b30 #t04000058#s#k。快点！\n#t02050000#  #b#c02050000##k/50 \n#t04000076#  #b#c04000076##k/30 \n#t04000058#  #b#c04000058##k/30"/>
-        <string name="2" value="这药应该能在它好好睡一晚后排除体内的毒素。这样就可以了吗？我最好问问玛雅。"/>
+        <string name="0" value="小狮子的情况让我很担心。我得去玛亚家看看。"/>
+        <string name="1" value="现在，小狮子中毒了！为了排毒，需要#b50个#t02050000##k、#b30个#t04000076##k和#b30个#t04000058##k。快点！\n#t02050000#  #b#c02050000##k/50 \n#t04000076#  #b#c04000076##k/30 \n#t04000058#  #b#c04000058##k/30"/>
+        <string name="2" value="这药应该能在它好好睡一晚后排除体内的毒素。这样就可以了吗？我最好问问玛亚。"/>
         <int name="area" value="30"/>
     </imgdir>
     <imgdir name="8036">
-        <string name="name" value="玛雅的关切 3"/>
-        <string name="parent" value="玛雅的关切"/>
+        <string name="name" value="玛亚的担忧 3"/>
+        <string name="parent" value="玛亚的担忧"/>
         <int name="order" value="3"/>
-        <string name="0" value="我觉得我们已经迎来了转机。这就能解决问题吗？我需要问问玛雅。"/>
-        <string name="1" value="为了加快小狮子的康复，玛雅让我帮忙收集一些鱼，必须是新鲜的。由于#b#o5400000##k喜欢吃新鲜鱼，我最好准备#b100 #t4000088#s#k。\n#t4000088#  #b#c4000088##k/100"/>
-        <string name="2" value="我在这里所能做的一切都已经完成。接下来就交给玛雅吧。希望小狮子能够早日康复！"/>
+        <string name="0" value="我觉得我们已经迎来了转机。这就能解决问题吗？我需要问问玛亚。"/>
+        <string name="1" value="为了加快小狮子的康复，玛亚让我帮忙收集一些鱼，必须是新鲜的。由于#b#o5400000##k喜欢吃新鲜鱼，我最好准备#b100个#t4000088##k。\n#t4000088#  #b#c4000088##k/100"/>
+        <string name="2" value="我在这里所能做的一切都已经完成。接下来就交给玛亚吧。希望小狮子能够早日康复！"/>
         <int name="area" value="30"/>
     </imgdir>
     <imgdir name="8037">
         <string name="name" value="小狮子的项链 1"/>
         <string name="parent" value="小狮子的项链"/>
         <int name="order" value="1"/>
-        <string name="0" value="对了，小狮子最近怎么样？我得去玛雅家看看。"/>
-        <string name="1" value="玛雅决定给小狮子打扮一下，用一条项链把它伪装成家猫。因为在当地商场买一条可能会暴露它的身份，所以她想让我去找明珠港的特奥帮忙。"/>
+        <string name="0" value="对了，小狮子最近怎么样？我得去玛亚家看看。"/>
+        <string name="1" value="玛亚决定给小狮子打扮一下，用一条项链把它伪装成家猫。因为在当地商场买一条可能会暴露它的身份，所以她想让我去找明珠港的特奥帮忙。"/>
         <string name="2" value="特奥决定帮助制作小狮子的项链。"/>
         <int name="area" value="30"/>
     </imgdir>
@@ -17904,23 +17904,23 @@
         <string name="parent" value="小狮子的项链"/>
         <int name="order" value="2"/>
         <string name="0" value="特奥决定帮助制作小狮子的项链。我得赶紧问问他。"/>
-        <string name="1" value="特奥似乎很忙，于是我决定自己去收集材料。我需要准备#b50 #t04000033#s#k、#b50 #t04000030#s#k和#b7 #t04000061##k，然后交给特奥。\n\n#t04000033#  #b#c04000033##k/50\n#t04000030#  #b#c04000030##k/50\n#t04000061#  #b#c04000061##k/7"/>
-        <string name="2" value="把材料交给特奥后，他很快就送去珠宝商那里制作。制作出来的是一条美丽的项链，使用了黑鳄鱼皮和龙皮。现在我得把这个展示给玛雅看看。"/>
+        <string name="1" value="特奥似乎很忙，于是我决定自己去收集材料。我需要准备#b50 #t04000033##k、#b50 #t04000030##k和#b7 #t04000061##k，然后交给特奥。\n\n#t04000033#  #b#c04000033##k/50\n#t04000030#  #b#c04000030##k/50\n#t04000061#  #b#c04000061##k/7"/>
+        <string name="2" value="把材料交给特奥后，他很快就送去珠宝商那里制作。制作出来的是一条美丽的项链，使用了黑鳄鱼皮和龙皮。现在我得把这个展示给玛亚看看。"/>
         <int name="area" value="30"/>
     </imgdir>
     <imgdir name="8039">
         <string name="name" value="小狮子的项链 3"/>
         <string name="parent" value="小狮子的项链"/>
         <int name="order" value="3"/>
-        <string name="1" value="把材料交给特奥后，他很快就送去珠宝商那里制作。这条美丽的项链由黑鳄鱼皮和龙皮制成。现在我得把它展示给玛雅看看。"/>
+        <string name="1" value="把材料交给特奥后，他很快就送去珠宝商那里制作。这条美丽的项链由黑鳄鱼皮和龙皮制成。现在我得把它展示给玛亚看看。"/>
         <string name="2" value="有了这条项链，小狮子现在可一点也不像个怪物了。真是太好了！"/>
         <int name="area" value="30"/>
     </imgdir>
     <imgdir name="8040">
         <string name="name" value="小狮子的旅程"/>
-        <string name="0" value="小狮子现在和玛雅在外面玩吗？我得去玛雅家看看他们。"/>
-        <string name="1" value="显然，给小狮子留下伤疤的是#b#o5130104##k，这也是它尽管戴着项链还是不敢离开家的原因。我需要准备#b100 #t04000051#s#k来增强它的信心。\n#t04000051#  #b#c04000051##k/100"/>
-        <string name="2" value="玛雅说小狮子的朋友们来过，并且和它一起离开了。至少小狮子不是一个人。虽然玛雅可能在哭，但我认为让小狮子去和朋友们生活是最好的选择。"/>
+        <string name="0" value="小狮子现在和玛亚在外面玩吗？我得去玛亚家看看他们。"/>
+        <string name="1" value="显然，给小狮子留下伤疤的是#b#o5130104##k，这也是它尽管戴着项链还是不敢离开家的原因。我需要准备#b100 #t04000051##k来增强它的信心。\n#t04000051#  #b#c04000051##k/100"/>
+        <string name="2" value="玛亚说小狮子的朋友们来过，并且和它一起离开了。至少小狮子不是一个人。虽然玛亚可能在哭，但我认为让小狮子去和朋友们生活是最好的选择。"/>
         <int name="area" value="30"/>
     </imgdir>
     <imgdir name="8041">
@@ -17937,7 +17937,7 @@
         <string name="parent" value="怪物传闻坊"/>
         <int name="order" value="2"/>
         <string name="0" value="为了收集有关这个怪物的信息，我得帮珀斯上尉一个忙。你在开玩笑吗？"/>
-        <string name="1" value="为了进一步了解这个怪物，我需要给珀斯上尉#b50 #t04000129#s#k。\n#t04000129#  #b#c04000129##k/50"/>
+        <string name="1" value="为了进一步了解这个怪物，我需要给珀斯上尉#b50 #t04000129##k。\n#t04000129#  #b#c04000129##k/50"/>
         <string name="2" value="难怪……他提到，地球防御总部似乎也在着手对付这个怪物。他说我可以通过偷听 马斯特将军 来了解更多情况。这可不容易……"/>
         <int name="area" value="48"/>
     </imgdir>
@@ -17946,14 +17946,14 @@
         <string name="parent" value="怪物传闻坊"/>
         <int name="order" value="3"/>
         <string name="0" value="难怪……他说，地球防御总部似乎也在积极行动以击败那个怪物。他提到我可以通过偷听 马斯特 将军 来了解更多情况。这可不容易……"/>
-        <string name="1" value="不可能……其中一个#b#o8140000#s#k可能正在策划什么阴险的事情……我不能让他们在这里对无辜的人造成破坏。虽然这可能不是玛雅想听到的，但我必须消灭这些#b#o8140000#s#k。\n#t04000054# #b#c04000054##k/50"/>
+        <string name="1" value="不可能……其中一个#b#o8140000##k可能正在策划什么阴险的事情……我不能让他们在这里对无辜的人造成破坏。虽然这可能不是玛亚想听到的，但我必须消灭这些#b#o8140000##k。\n#t04000054# #b#c04000054##k/50"/>
         <string name="2" value="我没有找到戴着项链的#b#o8140000##k。我相信它肯定还活着某个地方。我知道这听起来有些奇怪，但我决定相信这个事实。"/>
         <int name="area" value="10"/>
     </imgdir>
     <imgdir name="8047">
         <string name="name" value="勇助与美食"/>
         <string name="0" value="来自昭和村的勇助显然要做一个“奇妙的美食”。真是有趣……"/>
-        <string name="1" value="勇助说，为了制作这个奇妙的美食，他需要 #b100 #t04000157#s#k。我迫不及待想看看会做出什么来！ #k#n#t04000157# #b#c04000157##k/100"/>
+        <string name="1" value="勇助说，为了制作这个奇妙的美食，他需要 #b100 #t04000157##k。我迫不及待想看看会做出什么来！ #k#n#t04000157# #b#c04000157##k/100"/>
         <string name="2" value="美食？这不过是垃圾食品！*叹气*"/>
         <int name="area" value="48"/>
     </imgdir>
@@ -18051,8 +18051,8 @@
     <imgdir name="8060">
         <string name="name" value="美代子与她的泰迪熊"/>
         <string name="0" value="我应该去和 #b#p9120011##k 这个在警察局前面哭泣的人谈谈。"/>
-        <string name="1" value="#b#p9120011##k 请我收集 #b50 #t04000106#s#k，以便她可以修理她的玩偶。\n\n#t04000106# #b#c04000106#/50#k"/>
-        <string name="2" value="我给了 #b#p9120011##k #b50 #t04000106#s#k。她似乎很高兴收到这些。希望这对她修理玩偶足够了。"/>
+        <string name="1" value="#b#p9120011##k 请我收集 #b50 #t04000106##k，以便她可以修理她的玩偶。\n\n#t04000106# #b#c04000106#/50#k"/>
+        <string name="2" value="我给了 #b#p9120011##k #b50 #t04000106##k。她似乎很高兴收到这些。希望这对她修理玩偶足够了。"/>
         <int name="area" value="48"/>
     </imgdir>
     <imgdir name="8061">
@@ -18069,15 +18069,15 @@
         <string name="parent" value="Doll in the Dark"/>
         <int name="order" value="2"/>
         <string name="0" value="#b#p2041022##k said he looked for some subjects that may go along with the book that&apos;s being written. What do I need to do now? I better ask him."/>
-        <string name="1" value="#p2041022# requested me to defeat #b#o6230400##k and collect #b50 #t04000143#s#k so I can hand them to #b#p1012109##k. I don&apos;t know if #p1012109# wants to be in on this, but I&apos;ll ask first."/>
-        <string name="2" value="Just the way #p2041022# ordered, I gathered up #b50 #t04000143#s#k from #b#o6230400##k, and gave them to #p1012109# of #m100000000#. #p1012109# seemed very ecstatic, and rewarded me for my effort, but will that really help him write the next chapter?"/>
+        <string name="1" value="#p2041022# requested me to defeat #b#o6230400##k and collect #b50 #t04000143##k so I can hand them to #b#p1012109##k. I don&apos;t know if #p1012109# wants to be in on this, but I&apos;ll ask first."/>
+        <string name="2" value="Just the way #p2041022# ordered, I gathered up #b50 #t04000143##k from #b#o6230400##k, and gave them to #p1012109# of #m100000000#. #p1012109# seemed very ecstatic, and rewarded me for my effort, but will that really help him write the next chapter?"/>
         <int name="area" value="30"/>
     </imgdir>
     <imgdir name="8064">
         <string name="name" value="Soul in the Dark"/>
         <string name="0" value="I should ask #b#p1012109##k of #m100000000# how the book is coming along."/>
-        <string name="1" value="Just as I suspected, the stuff I gathered up for him last time didn&apos;t help much. This time, he wanted me to defeat #b#o6230500##k and gather up #b50 #t4000144#s#k for #p1012109# of #m100000000#.\n\n#t4000144#  #b#c4000144#/50#k"/>
-        <string name="2" value="I gave #p1012109# of #m100000000# #b50 #t4000144#s#k. Hopefully THIS will help me finish up the book."/>
+        <string name="1" value="Just as I suspected, the stuff I gathered up for him last time didn&apos;t help much. This time, he wanted me to defeat #b#o6230500##k and gather up #b50 #t4000144##k for #p1012109# of #m100000000#.\n\n#t4000144#  #b#c4000144#/50#k"/>
+        <string name="2" value="I gave #p1012109# of #m100000000# #b50 #t4000144##k. Hopefully THIS will help me finish up the book."/>
         <int name="area" value="48"/>
         <string name="parent" value="Soul in the Dark"/>
     </imgdir>
@@ -18086,7 +18086,7 @@
         <string name="parent" value="Freed From Darkness"/>
         <int name="order" value="1"/>
         <string name="0" value="#b#p1012109##k of #b#p1012109##k&apos;s book should be ready by now. I should go talk to him."/>
-        <string name="1" value="Apparenlty the #b#t4000144#s#k have disappeared to the direction of #b#m801000000##k. I need to find it and return it to its original state."/>
+        <string name="1" value="Apparenlty the #b#t4000144##k have disappeared to the direction of #b#m801000000##k. I need to find it and return it to its original state."/>
         <string name="2" value="Apparently, #p9120011#&apos;s doll just went about on its one way. Maybe this has something to do with #b#t4000144##k that #p1012109# is looking for..."/>
         <int name="area" value="30"/>
     </imgdir>
@@ -18104,7 +18104,7 @@
         <string name="parent" value="Freed From Darkness"/>
         <int name="order" value="3"/>
         <string name="0" value="#b#p1012109##k seems to catch on to something here. I&apos;ll need to hear this."/>
-        <string name="1" value="He said #p9120011#&apos;s doll that is laden with #t4000144# may be controlled by something. I can&apos;t just stand still listening to this! I&apos;ll have to gather up #b50 #t04000148#s#k from #b#o7130300##k, as well as #b50 #t04000147#s#k from #b#o7130010##k. \nSince #p9120011# is crying, I&apos;ll have to return #b#t04000147##k to her first and hand #b#t04000147##k to her, then go to where #b#p1012109##k is.\n\n#t04000148# #b#c04000148##k/50\n#t04000147# #b#c04000147##k/50"/>
+        <string name="1" value="He said #p9120011#&apos;s doll that is laden with #t4000144# may be controlled by something. I can&apos;t just stand still listening to this! I&apos;ll have to gather up #b50 #t04000148##k from #b#o7130300##k, as well as #b50 #t04000147##k from #b#o7130010##k. \nSince #p9120011# is crying, I&apos;ll have to return #b#t04000147##k to her first and hand #b#t04000147##k to her, then go to where #b#p1012109##k is.\n\n#t04000148# #b#c04000148##k/50\n#t04000147# #b#c04000147##k/50"/>
         <string name="2" value="After handing #b#t04000147##k to #p9120011#, a blinding light engulfted the dolls, and then they transformed back to their original state. Too bad #b#t04000148##k disappeared in the process. What should I do? I better go talk to #b#p9120011##k."/>
         <int name="area" value="48"/>
     </imgdir>
@@ -18131,7 +18131,7 @@
         <string name="parent" value="Tsuri&apos;s Special Seafood"/>
         <int name="order" value="2"/>
         <string name="0" value="Now that Tsuri has #b#t04000153##k with him, will he be good at catching those fishes? I better go check him out..."/>
-        <string name="1" value="Hah, I wound up having to catch for him. I&apos;ll need to get #b100 #t04000158#s#k from #b#o4230200##k.\n\n#t04000158#  #b#c04000158##k/100"/>
+        <string name="1" value="Hah, I wound up having to catch for him. I&apos;ll need to get #b100 #t04000158##k from #b#o4230200##k.\n\n#t04000158#  #b#c04000158##k/100"/>
         <string name="2" value=" That bowl of rice covered in Poopa&apos;s eggs does not look enticing at all. Does it taste alright? I think I&apos;ll let others find out..."/>
         <int name="area" value="48"/>
     </imgdir>
@@ -18176,7 +18176,7 @@
         <string name="parent" value="The Committee Challenges"/>
         <int name="order" value="2"/>
         <string name="0" value="We found the 3rd Herb, but it is tightly sealed inside Lazy Buffy&apos;s Marble. It seems like it&apos;s been attached for so long, that I don&apos;t think we can just pluck it out of the sphere. Sabitrama then mentioned something like applying modern science to opening this. We&apos;ve come so far, that there&apos;s no way we&apos;re about to give up.\nBut then again, who am I supposed to find?&quot;"/>
-        <string name="1" value="He may have talked too candidly on some things, but I think the herb can be plucked out of the marble. As part of the deal, I have to gather up #b500 #t04000133#s#k.\n\n\n#t04000133#  #b#c04000133##k/500"/>
+        <string name="1" value="He may have talked too candidly on some things, but I think the herb can be plucked out of the marble. As part of the deal, I have to gather up #b500 #t04000133##k.\n\n\n#t04000133#  #b#c04000133##k/500"/>
         <string name="2" value="The seal is disabled, but since the marble itself isn&apos;t very stable, Dr. Kim made a device called &quot;Open Sesami&quot; and sent it to Sabitrama. I should go see him later. \nAnyway, he&apos;s pretty good at what he does, but man he&apos;s terrible at naming his inventions!"/>
         <int name="area" value="48"/>
     </imgdir>
@@ -18210,8 +18210,8 @@
         <string name="parent" value="Umi&apos;s Ambition"/>
         <int name="order" value="3"/>
         <string name="0" value="I better negotiate with #r#p2050002##k so the machine can be sent to Showa Town ASAP."/>
-        <string name="1" value="After eating lunch, #r#p2050002##k claims that he&apos;ll send the machine to Showa Town, no problem. \nThis really irritated me, but I&apos;ll have to gather up #b400#k #b#t4000117#s#k in order for that to happen.\r\n#t4000117# #b#c4000117##k/400"/>
-        <string name="2" value="Just as #r#p2050002##k demanded, I got him #b400 #t4000117#s#k."/>
+        <string name="1" value="After eating lunch, #r#p2050002##k claims that he&apos;ll send the machine to Showa Town, no problem. \nThis really irritated me, but I&apos;ll have to gather up #b400#k #b#t4000117##k in order for that to happen.\r\n#t4000117# #b#c4000117##k/400"/>
+        <string name="2" value="Just as #r#p2050002##k demanded, I got him #b400 #t4000117##k."/>
         <int name="area" value="48"/>
     </imgdir>
     <imgdir name="8082">
@@ -18219,7 +18219,7 @@
         <string name="parent" value="Umi&apos;s Ambition"/>
         <int name="order" value="4"/>
         <string name="0" value="As promised, #r#p9120005##k sent this to #r#p9120005##k. I better go see it right now."/>
-        <string name="1" value="In order to create a new item, it&apos;ll require #b10#k #b#t4011005#s#k. \nI&apos;ve gone through too much to give up on this. Let&apos;s go!\r\n#t4011005# #b#c4011005##k/10"/>
+        <string name="1" value="In order to create a new item, it&apos;ll require #b10#k #b#t4011005##k. \nI&apos;ve gone through too much to give up on this. Let&apos;s go!\r\n#t4011005# #b#c4011005##k/10"/>
         <string name="2" value="I was able to make the item, but was this investment really worth it?"/>
         <int name="area" value="48"/>
     </imgdir>
@@ -18274,7 +18274,7 @@
     </imgdir>
     <imgdir name="8207">
         <string name="name" value="Valentine&apos;s Day : Chocolate Basket"/>
-        <string name="0" value="Apparently, Ace of Hearts can make a chocolate basket that extends the power of love using a number of #t4140100#s."/>
+        <string name="0" value="Apparently, Ace of Hearts can make a chocolate basket that extends the power of love using a number of #t4140100#."/>
         <string name="1" value="[#p2041017#] said with #t4140100# and additional materials, he can make a #b#t4140200##k that expires at a later date. Apparently, it&apos;s good for #r5 days#k, longer than that of #t4140100#.\n\n#t4140100# #c4140100# / #r1#k\n#t4031110# #c4031110# / #r1#k\n#t4031109# #c4031109# / #r1#k\n#t4031113# #c4031113# / #r1#k\n#t4031114# #c4031114# / #r1#k"/>
         <string name="2" value="I was able to make a chocolate basket for the person I dearly love for the Valentine&apos;s Day through [#p2041017#]."/>
         <int name="area" value="50"/>
@@ -18289,7 +18289,7 @@
     <imgdir name="8218">
         <string name="name" value="Summer Break: Cody&apos;s BBQ - Start"/>
         <string name="0" value="Hooray for Summer! I heard Cody&apos;s having a barbecue! I better head over and see if I can help!"/>
-        <string name="1" value="I spoke with Cody, and it looks like he needs help. I&apos;ll need to bring 10 #b#t4031664#s#k 10 #b#t4031665#s#k and 10 #b#t4031666##k to Cody so he can finish cooking. Just the sound of all that makes me hungry! "/>
+        <string name="1" value="I spoke with Cody, and it looks like he needs help. I&apos;ll need to bring 10 #b#t4031664##k 10 #b#t4031665##k and 10 #b#t4031666##k to Cody so he can finish cooking. Just the sound of all that makes me hungry! "/>
         <string name="2" value="I got all the ingredients Cody needed to start the barbecue! With the items he gave me, I can continue to enjoy the summer in style!"/>
         <int name="area" value="50"/>
     </imgdir>
@@ -19218,21 +19218,21 @@
     <imgdir name="8885">
         <string name="name" value="Summer Break: Cody&apos;s BBQ - Start"/>
         <string name="0" value="Hooray for Summer! I heard Cody&apos;s having a barbecue! I better head over and see if I can help!"/>
-        <string name="1" value="I spoke with Cody, and it looks like he needs help. I&apos;ll need to bring 10 #b#t4031664#s#k 10 #b#t4031665#s#k and 10 #b#t4031666##k to Cody so he can finish cooking. Just the sound of all that makes me hungry! "/>
+        <string name="1" value="I spoke with Cody, and it looks like he needs help. I&apos;ll need to bring 10 #b#t4031664##k 10 #b#t4031665##k and 10 #b#t4031666##k to Cody so he can finish cooking. Just the sound of all that makes me hungry! "/>
         <string name="2" value="I got all the ingredients Cody needed to start the barbecue! With the items he gave me, I can continue to enjoy the summer in style!"/>
         <int name="area" value="50"/>
     </imgdir>
     <imgdir name="8886">
         <string name="name" value="Summer Break: Cody&apos;s BBQ."/>
         <string name="0" value="Hooray for Summer! I heard Cody&apos;s having a barbecue! I better head over and see if I can help!"/>
-        <string name="1" value="I spoke with Cody, and it looks like he needs help. I&apos;ll need to grab 30 #b#t4031659#s#k and bring them back to Cody so he can finish cooking. Just the sound of all that makes me hungry! "/>
+        <string name="1" value="I spoke with Cody, and it looks like he needs help. I&apos;ll need to grab 30 #b#t4031659##k and bring them back to Cody so he can finish cooking. Just the sound of all that makes me hungry! "/>
         <string name="2" value="I got all the ingredients Cody needed to start the barbecue! With the items he gave me, I can continue to enjoy the summer in style!"/>
         <int name="area" value="50"/>
     </imgdir>
     <imgdir name="8887">
         <string name="name" value="Summer Break: Cody&apos;s BBQ.."/>
         <string name="0" value="Hooray for Summer! I heard Cody&apos;s having a barbecue! I better head over and see if I can help!"/>
-        <string name="1" value="I spoke with Cody, and it looks like he needs help. I&apos;ll need to grab 30 #b#t4031658#s#k and bring them back to Cody so he can finish cooking. Just the sound of all that makes me hungry! "/>
+        <string name="1" value="I spoke with Cody, and it looks like he needs help. I&apos;ll need to grab 30 #b#t4031658##k and bring them back to Cody so he can finish cooking. Just the sound of all that makes me hungry! "/>
         <string name="2" value="I got all the ingredients Cody needed to start the barbecue! With the items he gave me, I can continue to enjoy the summer in style!"/>
         <int name="area" value="50"/>
     </imgdir>
@@ -19269,7 +19269,7 @@
         <string name="parent" value="Beat the Heat &lt;Easy&gt;"/>
         <int name="order" value="1"/>
         <string name="0" value="Maple Administrator has come up with an event for the summer. Where must the admin be??"/>
-        <string name="1" value="As summer rolls on, The Maple Adminstrator has prepared an event called &apos;Beat the Heat&apos; for the health of the users, most of which would be in front of the air-conditioner or a fan. As a warm up, the administrator requested that I defeat #b50 #o130101#s#k and #b20 #o1210102#s#k... sounds like fun.\n\n#o130101# #r#a90512##k\n#o1210102# #r#a90511#"/>
+        <string name="1" value="As summer rolls on, The Maple Adminstrator has prepared an event called &apos;Beat the Heat&apos; for the health of the users, most of which would be in front of the air-conditioner or a fan. As a warm up, the administrator requested that I defeat #b50 #o130101##k and #b20 #o1210102##k... sounds like fun.\n\n#o130101# #r#a90512##k\n#o1210102# #r#a90511#"/>
         <string name="2" value="I met the Maple Administrator, and passed the 1st Stage of the Easy level of #bBeat the Heat#k."/>
         <int name="area" value="50"/>
     </imgdir>
@@ -19278,7 +19278,7 @@
         <string name="parent" value="Beat the Heat &lt;Easy&gt;"/>
         <int name="order" value="2"/>
         <string name="0" value="I should go visit Maple Administrator for Beat the Heat, 2nd Stage."/>
-        <string name="1" value="For the 2nd Stage task, the Maple Administrator asked me to gather up #b10 #t4031167#s#, which can be obtained by hunting #b#o1110100##k and #b#o1110101##k.\n\n#t4031167# #b#c4031167##k/10"/>
+        <string name="1" value="For the 2nd Stage task, the Maple Administrator asked me to gather up #b10 #t4031167##, which can be obtained by hunting #b#o1110100##k and #b#o1110101##k.\n\n#t4031167# #b#c4031167##k/10"/>
         <string name="2" value="I met the Maple Administrator, and passed the 2nd stage of the Easy level of #bBeat the Heat#k."/>
         <int name="area" value="50"/>
     </imgdir>
@@ -19287,7 +19287,7 @@
         <string name="parent" value="Beat the Heat &lt;Easy&gt;"/>
         <int name="order" value="3"/>
         <string name="0" value="I should go visit Maple Administrator for Beat the Heat, 3rd Stage."/>
-        <string name="1" value="For the 3rd Stage task, the Maple Administrator wanted me to defeat #b#o1130100##k and #b#o2220100##k, 25 each, while collecting #b30 #t4000037#s#k from #b#o1210103##k.\n\n#o1130100# #r#a90532##k\n#o2220100# #r#a90531##k\n#t4000037# #b#c4000037##k/30"/>
+        <string name="1" value="For the 3rd Stage task, the Maple Administrator wanted me to defeat #b#o1130100##k and #b#o2220100##k, 25 each, while collecting #b30 #t4000037##k from #b#o1210103##k.\n\n#o1130100# #r#a90532##k\n#o2220100# #r#a90531##k\n#t4000037# #b#c4000037##k/30"/>
         <string name="2" value="I passed the &apos;Beat the Heat&apos; Challenge that MapleStory prepared for us. Just like he/she said, I better stop spending so much time in front of air-conditioners and fans, and go out instead and lead an active life."/>
         <int name="area" value="50"/>
     </imgdir>
@@ -19863,7 +19863,7 @@
     </imgdir>
     <imgdir name="9311">
         <string name="name" value="Valentine&apos;s Day : Chocolate Basket"/>
-        <string name="0" value="Apparently, Ace of Hearts can make a chocolate basket that extends the power of love using a number of #t4140100#s."/>
+        <string name="0" value="Apparently, Ace of Hearts can make a chocolate basket that extends the power of love using a number of #t4140100#."/>
         <string name="1" value="[#p2041017#] said with #t4140100# and additional materials, he can make a #b#t4140200##k that expires at a later date. Apparently, it&apos;s good for #r5 days#k, longer than that of #t4140100#.\n\n#t4140100# #c4140100# / #r1#k\n#t4031110# #c4031110# / #r1#k\n#t4031109# #c4031109# / #r1#k\n#t4031113# #c4031113# / #r1#k\n#t4031114# #c4031114# / #r1#k"/>
         <string name="2" value="I was able to make a chocolate basket for the person I dearly love for the Valentine&apos;s Day through [#p2041017#]."/>
         <int name="area" value="50"/>
