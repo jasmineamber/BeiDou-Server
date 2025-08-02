@@ -25,9 +25,9 @@ function action(mode, type, selection) {
         if (zones == 0) {
             cm.dispose();
         } else {
-            var selStr = "Which ticket would you like?#b";
+            var selStr = "你想买哪张车票?#b";
             for (var i = 0; i < zones; i++) {
-                selStr += "\r\n#L" + i + "#Construction site B" + (i + 1) + " (" + cost + " mesos)#l";
+                selStr += "\r\n#L" + i + "#工地B" + (i + 1) + " (" + cost + " 金币)#l";
             }
             cm.sendSimple(selStr);
         }
