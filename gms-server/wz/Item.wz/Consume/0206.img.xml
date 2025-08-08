@@ -261,7 +261,7 @@
         <vector name="origin" x="0" y="32"/>
       </canvas>
       <int name="price" value="0"/>
-      <int name="slotMax" value="2000"/>
+      <int name="slotMax" value="1"/>
     </imgdir>
     <imgdir name="bullet">
       <canvas name="0" width="37" height="7">

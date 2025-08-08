@@ -377,7 +377,7 @@ public class ItemInformationProvider {
                     ret = 100;
                 }
             } else {
-                ret = inventoryType.canChangeSlotMax() && itemSlotMax > 0 ? itemSlotMax : (short) DataTool.getInt(smEntry);
+                ret = inventoryType.canChangeSlotMax() && itemSlotMax > 0 && !ItemConstants.isArrow(itemId) ? itemSlotMax : (short) DataTool.getInt(smEntry);
             }
         }
 
